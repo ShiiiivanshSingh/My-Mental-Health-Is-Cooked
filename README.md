@@ -2,7 +2,7 @@
 
 
 # ThriveSpace 🌱
----
+
 
 Welcome to _ThriveSpace_! 🎉  <br>
 Memes and jokes apart, mental health matters, and I’m not particularly doing great. 😅 So I made a go-to resource for understanding, tracking, and improving your mental well-being through practical tools and insightful content.
@@ -39,4 +39,4 @@ git clone https://github.com/ShiiiivanshSingh/My-Mental-Health-Is-Cooked.git
 
 --- 
 
-Thanks -Shivansh
+Thanks<br> -Shivansh
