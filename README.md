@@ -12,9 +12,9 @@ Memes and jokes apart, mental health matters, and I’m not particularly doing g
 
 ## Table of Contents 📚
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
+1. [Introduction 🧠](#introduction)
+2. [Features ✨](#features)
+3. [Installation 🔧](#installation)
 
 ## Introduction 🧠
 
@@ -39,4 +39,4 @@ git clone https://github.com/ShiiiivanshSingh/My-Mental-Health-Is-Cooked.git
 
 --- 
 
-Feel free to modify any emojis or sections to match your style!
+Thanks -Shivansh
