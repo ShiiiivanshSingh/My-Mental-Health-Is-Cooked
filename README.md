@@ -2,6 +2,8 @@
 
 Welcome to _My Mental Health Is Cooked_!. Memes and Jokes apart mental health matters and Im not oarticularly doing  great. So I made a go-to resource for understanding, tracking, and improving your mental well-being through practical tools and insightful content.
 
+**Link To The Website**: https://bit.ly/3BNKBi1
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
