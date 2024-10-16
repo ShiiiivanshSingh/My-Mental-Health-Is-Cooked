@@ -1,0 +1,121 @@
+/* General body settings */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f19b9b; /* Pink background as in the image */
+    color: #000; /* Black text */
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background: none;
+}
+
+header .logo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+nav ul li a:hover {
+    color: white;
+    border-bottom: 2px solid black;
+}
+
+/* Main content */
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 100px;
+    height: calc(100vh - 100px); /* Ensures full-screen height */
+}
+
+/* Text content */
+.content {
+    max-width: 50%;
+}
+
+.content h2 {
+    font-size: 48px;
+    font-weight: bold;
+    color: black;
+}
+
+.content p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: black;
+}
+
+/* Welcome Button */
+.welcome-btn {
+    margin-top: 20px;
+    padding: 15px 30px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.welcome-btn:hover {
+    background-color: white;
+    color: black;
+    transform: scale(1.05);
+}
+
+/* Lotus Illustration */
+.lotus-illustration {
+    max-width: 40%;
+}
+
+.lotus-illustration img {
+    width: 100%;
+    height: auto;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    main {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .content, .lotus-illustration {
+        max-width: 100%;
+    }
+
+    .content h2 {
+        font-size: 36px;
+    }
+
+    .content p {
+        font-size: 16px;
+    }
+
+    .welcome-btn {
+        width: 100%;
+    }
+}
