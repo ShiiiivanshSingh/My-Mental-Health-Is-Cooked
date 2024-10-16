@@ -1,6 +1,6 @@
-# My Mental Health Is Cooked
+# ThriveSpace
 
-Welcome to _My Mental Health Is Cooked_!. Memes and Jokes apart mental health matters and Im not oarticularly doing  great. So I made a go-to resource for understanding, tracking, and improving your mental well-being through practical tools and insightful content.
+Welcome to _ThriveSpace_!. Memes and Jokes apart mental health matters and Im not oarticularly doing  great. So I made a go-to resource for understanding, tracking, and improving your mental well-being through practical tools and insightful content.
 
 **Link To The Website**: https://bit.ly/3BNKBi1
 
@@ -15,7 +15,7 @@ Welcome to _My Mental Health Is Cooked_!. Memes and Jokes apart mental health ma
 
 ## Introduction
 
-This project aims to provide users with accessible tools and information to manage their mental health effectively. Mental health is a crucial aspect of our overall well-being, and with _My Mental Health Is Cooked_, we're here to offer support and resources.
+This project aims to provide users with accessible tools and information to manage their mental health effectively. Mental health is a crucial aspect of our overall well-being, and with _ThriveSpace_, we're here to offer support and resources.
 
 ## Features
 
