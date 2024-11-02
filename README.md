@@ -27,7 +27,11 @@ This project aims to provide users with accessible tools and information to mana
 - **Helpful Articles and Tips** 📝: Learn more about mental health through curated content.
 - **Community Support** 👥: Connect with others and share your journey.
 
-## Installation 🔧
+## Contributions 🔧
+
+Any suggestions are Welcome!<br>
+Contact Me At {Discord}: <br>
+shivanshpratapsingh [578111503891169331]
 
 The Link To The Website: 🌐 [Click Here](https://bit.ly/3BNKBi1)
 
